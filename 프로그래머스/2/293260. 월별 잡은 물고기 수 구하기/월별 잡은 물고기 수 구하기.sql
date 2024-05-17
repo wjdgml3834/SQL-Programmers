@@ -5,10 +5,11 @@
 단, 월은 숫자형태 (1~12) 로 출력하며 9 이하의 숫자는 두 자리로 출력하지 않습니다. 잡은 물고기가 없는 월은 출력하지 않습니다.
 */
 SELECT
-  COUNT(MONTH) AS FISH_COUNT,
+  COUNT(ID) AS FISH_COUNT,
   MONTH
 FROM(
   SELECT
+    ID,
     MONTH(TIME) AS MONTH
   FROM FISH_INFO
 ) AS fish_count_month

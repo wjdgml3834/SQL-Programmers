@@ -1,6 +1,6 @@
 # [level 2] 월별 잡은 물고기 수 구하기 - 293260 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/293260) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/293260#qna) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 17일 12:37:05
+2024년 05월 17일 12:44:43
 
 ### 문제 설명
 
